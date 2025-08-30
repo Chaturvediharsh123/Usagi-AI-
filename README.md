@@ -35,10 +35,12 @@ The project runs seamlessly on **Google Colab**.
 ```bash
 Helmet-Plate-Detection/
 │
-├── 📦 best.pt              # YOLO trained model weights (License Plate)
-├── 🪖 helmet_best.pt        # YOLO helmet detection weights
+├──weights
+📦 best.pt              # YOLO trained model weights (License Plate)
+🪖 helmet_best.pt        # YOLO helmet detection weights
+├──app..py                #python file
 ├── 🖼️ demo_image.jpg        # Sample input image
-├── 📒 main.ipynb           # Google Colab notebook
+├── 📒 app.ipynb           # Google Colab notebook
 ├── 📜 requirements.txt     # Python dependencies
 └── 📘 README.md            # Project documentation
 ```

@@ -41,20 +41,16 @@ Helmet-Plate-Detection/
 ├── 📒 main.ipynb           # Google Colab notebook
 ├── 📜 requirements.txt     # Python dependencies
 └── 📘 README.md            # Project documentation
-
----
-
-## 🚀 Getting Started  
-
-### 1️⃣ Clone Repository  
+```
 
 ```bash
-git clone https://github.com/your-username/Helmet-Plate-Detection.git
-cd Helmet-Plate-Detection
-
 2️⃣ Install Dependencies
+```bash
 pip install ultralytics opencv-python easyocr pytesseract matplotlib
+```
 3️⃣ Run on Google Colab
 	•	Upload best.pt (license plate detection weights)
 	•	Upload helmet_best.pt (helmet detection weights)
 	•	Open main.ipynb in Colab and run the cells
+```
+

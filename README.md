@@ -59,6 +59,6 @@ pip install -r requirements.txt
 
 	•	Upload best.pt (license plate detection weights)
 	•	Upload helmet_best.pt (helmet detection weights)
-	•	Open main.ipynb in Colab and run the cells
+	•	Open usagi.ipynb in Colab and run the cells
 ```
 
